@@ -50,14 +50,14 @@ For more information about Make and Makefiles:
 
 ## Reference
 
-[1] Schmidt Sciences, “Stuart Feldman,” [Online]. Available: https://www.schmidtsciences.org/person/stuart-feldman/. [Accessed: Apr. 15, 2025].
-[2] A. Maxwell, "Makefile Tutorial," Colby College, 2018. [Online]. Available: https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/. [Accessed: Apr. 4, 2025].
-[3] Coding Explorations, "From Novice to Expert: A Guide to Advanced Makefiles," Coding Explorations Blog, 2023. [Online]. Available: https://www.codingexplorations.com/blog/from-novice-to-expert-a-guide-to-advanced-makefiles. [Accessed: Apr. 4, 2025].
-[4] K. Siig, "Using Makefile Wildcards," Earthly Blog, 2023. [Online]. Available: https://earthly.dev/blog/using-makefile-wildcards/. [Accessed: Apr. 4, 2025].
-[5] Free Software Foundation, "Wildcard Function," GNU Make Manual, 2023. [Online]. Available: https://www.gnu.org/software/make/manual/html_node/Wildcard-Function.html. [Accessed: Apr. 4, 2025].
-[6] Chase Lambert, "Conditional Part of Makefiles," Makefile Tutorial, 2021. [Online]. Available: https://makefiletutorial.com/#conditional-part-of-makefiles. [Accessed: Apr. 4, 2025].
-[7] Free Software Foundation, "GNU Make Manual," GNU Project, 2022. [Online]. Available: https://www.gnu.org/software/make/manual/make.html. [Accessed: Apr. 4, 2025].
-[8] S. Patil, "What is a Makefile and How Does it Work?," opensource.com, Aug. 2018. [Online]. Available: https://opensource.com/article/18/8/what-how-makefile. [Accessed: Apr. 4, 2025].
-[9] OSDev Wiki, "Makefile," OSDev.org, Jul. 2023. [Online]. Available: https://wiki.osdev.org/Makefile. [Accessed: Apr. 4, 2025].
-[10] A. Das, "Makefiles from the Ground Up," Medium, May 2021. [Online]. Available: https://medium.com/@avik.das/makefiles-from-the-ground-up-cf3c1bb52f2. [Accessed: Apr. 4, 2025].
-[11] C. Wellons, "Auto-generate Deps for Make with GCC," nullprogram.com, Aug. 2017. [Online]. Available: https://nullprogram.com/blog/2017/08/20/. [Accessed: Apr. 4, 2025].
+[1] Schmidt Sciences, “Stuart Feldman,” [Online]. Available: https://www.schmidtsciences.org/person/stuart-feldman/. [Accessed: Apr. 15, 2025].  
+[2] A. Maxwell, "Makefile Tutorial," Colby College, 2018. [Online]. Available: https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/. [Accessed: Apr. 4, 2025].  
+[3] Coding Explorations, "From Novice to Expert: A Guide to Advanced Makefiles," Coding Explorations Blog, 2023. [Online]. Available: https://www.codingexplorations.com/blog/from-novice-to-expert-a-guide-to-advanced-makefiles. [Accessed: Apr. 4, 2025].  
+[4] K. Siig, "Using Makefile Wildcards," Earthly Blog, 2023. [Online]. Available: https://earthly.dev/blog/using-makefile-wildcards/. [Accessed: Apr. 4, 2025].  
+[5] Free Software Foundation, "Wildcard Function," GNU Make Manual, 2023. [Online]. Available: https://www.gnu.org/software/make/manual/html_node/Wildcard-Function.html. [Accessed: Apr. 4, 2025].  
+[6] Chase Lambert, "Conditional Part of Makefiles," Makefile Tutorial, 2021. [Online]. Available: https://makefiletutorial.com/#conditional-part-of-makefiles. [Accessed: Apr. 4, 2025].  
+[7] Free Software Foundation, "GNU Make Manual," GNU Project, 2022. [Online]. Available: https://www.gnu.org/software/make/manual/make.html. [Accessed: Apr. 4, 2025].  
+[8] S. Patil, "What is a Makefile and How Does it Work?," opensource.com, Aug. 2018. [Online]. Available: https://opensource.com/article/18/8/what-how-makefile. [Accessed: Apr. 4, 2025].  
+[9] OSDev Wiki, "Makefile," OSDev.org, Jul. 2023. [Online]. Available: https://wiki.osdev.org/Makefile. [Accessed: Apr. 4, 2025].  
+[10] A. Das, "Makefiles from the Ground Up," Medium, May 2021. [Online]. Available: https://medium.com/@avik.das/makefiles-from-the-ground-up-cf3c1bb52f2. [Accessed: Apr. 4, 2025].  
+[11] C. Wellons, "Auto-generate Deps for Make with GCC," nullprogram.com, Aug. 2017. [Online]. Available: https://nullprogram.com/blog/2017/08/20/. [Accessed: Apr. 4, 2025].  
